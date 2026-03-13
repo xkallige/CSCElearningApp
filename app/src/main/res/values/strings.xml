@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CSC E-learning App</string>
+    <string name="default_web_client_id">your_client_id_here</string>
+</resources>

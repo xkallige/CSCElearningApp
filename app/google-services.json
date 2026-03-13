@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "177781115576",
+    "project_id": "cscelearningapp",
+    "storage_bucket": "cscelearningapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177781115576:android:3bc6616e7358e6ef6c024d",
+        "android_client_info": {
+          "package_name": "com.example.csce_learningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177781115576-81baatpcddiavrkst36519igbco7g6sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.csce_learningapp",
+            "certificate_hash": "e924dbe6cde5441701c145c9b2d9ebc2a11042d0"
+          }
+        },
+        {
+          "client_id": "177781115576-ccuel11cgamg54f33f77ktck2c6dscft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpZ9GAgknIJxaWqe3trEjFI4TlWIoSZvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177781115576-ccuel11cgamg54f33f77ktck2c6dscft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
